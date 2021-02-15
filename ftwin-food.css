@@ -1,0 +1,30 @@
+.ftwin-logo{
+font-family: sans-serif;
+padding:12px;
+margin: auto;
+color:white;
+background-color: #000;
+}
+.ftwin-text-center{
+text-align: center;
+margin:auto;
+padding-top: 0%;
+ box-shadow: #fa8072 ;
+}
+
+figcaption{
+font-style: italic;
+font-size: 40px;
+font-weight: 500;
+}
+img{
+border-radius: 50%;
+}
+.ftwin-bold{
+font-weight: bold;
+}
+.ftwin-footer{
+font-style: italic;
+text-align: center;
+font-size:11px;
+}
